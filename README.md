@@ -1,3 +1,4 @@
 # hello-world
 Huynh Quoc Toan
-begin
+Nguyen Bich Thuan
+Love You
